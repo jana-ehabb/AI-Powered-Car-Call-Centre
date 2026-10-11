@@ -1,0 +1,16 @@
+ai/
+.vscode/
+__pycache__/
+.env
+auto_db.sqlite
+.env
+auto_db.sqlite
+backend/.venv-new/
+
+.env.*
+!.env.example
+.venv/
+.venv-*/
+venv/
+node_modules/
+dist/
